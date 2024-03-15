@@ -1,3 +1,4 @@
-# CODE Mata Kuliah Pemrograman Web 
-Manggala Kagendra Zuhdi
-2241760104
+# Mata Kuliah Pemrograman Web 
+Triaji Ibnu Hermawan
+2241760075
+SIB 2E / 24
